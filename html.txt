@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+     <head>
+           <tittle>Holi</title>
+     </head>
+     <body>
+            <h1> esto es un h1 </h1>
+
+     </body>
+</html>

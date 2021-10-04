@@ -1,0 +1,7 @@
+package mega-proyecto;
+
+public class Main{
+         public stais void main(String... args){
+               System.out.printLn("Hola mundo!!!");
+      }
+}
